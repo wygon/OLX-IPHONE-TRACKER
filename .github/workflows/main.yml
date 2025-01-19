@@ -122,4 +122,4 @@ async def stop(ctx):
     else:
         await ctx.send("Monitorowanie nie jest aktywne.")
 
-bot.run('MTMwNTE4MjU2NTMxMjg5MzAwMA.G2C29K.Z0-FP5l1eq3VlHqRG04ScvY1KLuUgU84Ji6iwQ')#main
+bot.run('DISCORD_BOT')#main
