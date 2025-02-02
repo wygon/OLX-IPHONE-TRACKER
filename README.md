@@ -1,5 +1,4 @@
-# wygon.github.io
-olx grabber
+# OLX IPHONE TRACKER
 Na wstępie aby aplikacja działała musisz posiadać pobranego najnowszego pythona.
 Tu go pobierzesz -> https://www.python.org/downloads/
 następnie musisz sprawdzić czy masz go na komputerze
@@ -36,7 +35,7 @@ iphone-11-pro
 iphone-11
 
 Czas odświeżania 
-	zalecany 60s.
+	zalecany 20s.
 
 Po więcej pytań zapraszam 
 	discord: wygon
